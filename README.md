@@ -1,6 +1,6 @@
 # Background
 
-This Project is refers to the [ethereum-lists/tokens](https://github.com/ethereum-lists/tokens) repository.
+This Project is refers to [ethereum-lists/tokens](https://github.com/ethereum-lists/tokens) repository.
 
 # Tokens
 
